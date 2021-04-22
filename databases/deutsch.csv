@@ -1,0 +1,1001 @@
+index,word,difficulty,category
+1,der,0,"personal adjectives"
+2,die,0,"personal adjectives"
+3,das,0,"personal adjectives"
+4,und,0,"other adjectives"
+5,in,0,"other adjectives"
+6,zu,0,"other adjectives"
+7,den,0,"personal adjectives"
+8,nicht,0,"other adjectives"
+9,von,0,"other adjectives"
+10,sie,0,"personal adjectives"
+11,ist,0,"other verbs"
+12,des,0,"personal adjectives"
+13,sich,0,"personal adjectives"
+14,mit,0,"other adjectives"
+15,dem,0,"personal adjectives"
+16,dass,0,"other adjectives"
+17,er,0,"personal adjectives"
+18,es,0,"personal adjectives"
+19,ein,0,"personal adjectives"
+20,ich,0,"personal adjectives"
+21,auf,0,"other adjectives"
+22,so,0,"other adjectives"
+23,eine,0,"personal adjectives"
+24,auch,0,"other adjectives"
+25,als,0,"other adjectives"
+26,an,0,"other adjectives"
+27,nach,0,"other adjectives"
+28,wie,0,"other adjectives"
+29,im,0,"other adjectives"
+30,für,0,"other adjectives"
+31,man,0,"personal adjectives"
+32,aber,0,"other adjectives"
+33,aus,0,"other adjectives"
+34,durch,0,"other adjectives"
+35,wenn,0,"other adjectives"
+36,nur,0,"other adjectives"
+37,war,0,"other adjectives"
+38,noch,0,"other adjectives"
+39,werden,0,"other verbs"
+40,bei,0,"other adjectives"
+41,hat,0,"other verbs"
+42,wir,0,"personal adjectives"
+43,was,0,"other adjectives"
+44,sind,0,"other verbs"
+45,sein,0,"other verbs"
+46,einen,0,"personal adjectives"
+47,welche,0,"other adjectives"
+48,lecker,0,"eat and drink"
+49,oder,0,"other adjectives"
+50,zur,0,"personal adjectives"
+51,haben,0,"other verbs"
+52,um,0,"other adjectives"
+53,einer,0,"personal adjectives"
+54,mir,0,"personal adjectives"
+55,diese,0,"personal adjectives"
+56,über,0,"other adjectives"
+57,ihm,0,"personal adjectives"
+58,einem,0,"personal adjectives"
+59,ihr,0,"personal adjectives"
+60,uns,0,"personal adjectives"
+61,da,0,"other adjectives"
+62,zum,0,"personal adjectives"
+63,kann,0,"other verbs"
+64,doch,0,"other adjectives"
+65,vor,0,"other adjectives"
+66,dieser,0,"personal adjectives"
+67,mich,0,"personal adjectives"
+68,ihn,0,"personal adjectives"
+69,du,0,"personal adjectives"
+70,hatte,0,"other verbs"
+71,seine,0,"personal adjectives"
+72,mehr,0,"other adjectives"
+73,am,0,"other adjectives"
+74,denn,0,"other adjectives"
+75,ihnen,0,"personal adjectives"
+76,seiner,0,"personal adjectives"
+77,alle,0,"other adjectives"
+78,wieder,0,"other adjectives"
+79,meine,0,"personal adjectives"
+80,Zeit,0,time
+81,gegen,0,"other adjectives"
+82,vom,0,"personal adjectives"
+83,ganz,0,"other adjectives"
+84,einzelnen,0,"other adjectives"
+85,wo,0,"other adjectives"
+86,muss,0,"other verbs"
+87,ohne,0,"other adjectives"
+88,eines,0,numbers
+89,können,0,"other verbs"
+90,sei,0,"other verbs"
+91,ja,0,phrases
+92,wurde,0,"other verbs"
+93,jetzt,0,time
+94,immer,0,"other adjectives"
+95,seinen,0,"personal adjectives"
+96,wohl,0,"other adjectives"
+97,dieses,0,"personal adjectives"
+98,ihren,0,"personal adjectives"
+99,würde,0,"other verbs"
+100,diesen,0,"personal adjectives"
+101,sondern,0,"other adjectives"
+102,weil,0,"other adjectives"
+103,welcher,0,"personal adjectives"
+104,nichts,0,"other adjectives"
+105,diesem,0,"personal adjectives"
+106,alles,0,"other adjectives"
+107,waren,0,"other verbs"
+108,will,0,"other verbs"
+109,Herr,0,"humans and animals"
+110,viel,0,"other adjectives"
+111,mein,0,"personal adjectives"
+112,also,0,"other adjectives"
+113,soll,0,"other verbs"
+114,worden,0,"other verbs"
+115,lassen,0,"other verbs"
+116,dies,0,"other adjectives"
+117,machen,0,"other verbs"
+118,ihrer,0,"other adjectives"
+119,weiter,0,"other adjectives"
+120,Leben,0,"other Nouns"
+121,recht,0,"other adjectives"
+122,etwas,0,"other adjectives"
+123,keine,0,"other adjectives"
+124,seinem,0,"personal adjectives"
+125,ob,0,"other adjectives"
+126,dir,0,"personal adjectives"
+127,allen,0,"personal adjectives"
+128,großen,0,"other adjectives"
+129,Jahre,1,time
+130,Weise,0,"other nouns"
+131,müssen,0,"other verbs"
+132,welches,0,"personal adjectives"
+133,wäre,0,"other verbs"
+134,erst,0,"other adjectives"
+135,einmal,0,"other adjectives"
+136,Mann,0,"humans and animals"
+137,hätte,0,"other verbs"
+138,zwei,0,numbers
+139,dich,0,"personal adjectives"
+140,allein,0,"other adjectives"
+141,eins,0,numbers
+142,drei,0,numbers
+143,vier,0,numbers
+144,fünf,0,numbers
+145,sechs,0,numbers
+146,sieben,0,numbers
+147,acht,0,numbers
+148,neun,0,numbers
+149,zehn,0,numbers
+150,elf,1,numbers
+151,dreizehn,1,numbers
+152,zwölf,1,numbers
+153,zwanzig,1,numbers
+154,einundzwanzig,1,numbers
+155,dreißig,1,numbers
+156,vierzig,1,numbers
+157,fünfzig,1,numbers
+158,sechzig,1,numbers
+159,siebzig,1,numbers
+160,achtzig,1,numbers
+161,neunzig,1,numbers
+162,hundert,1,numbers
+163,zweihundert,1,numbers
+164,tausend,1,numbers
+165,millionen,1,numbers
+166,null,1,numbers
+167,minus,1,numbers
+168,plus,1,numbers
+169,mal,1,numbers
+170,wann,0,time
+171,Herren,1,"humans and animals"
+172,während,0,"other adjectives"
+173,Paragraph,1,"other Nouns"
+174,anders,0,"other adjectives"
+175,Liebe,0,emotions
+176,kein,0,"other adjectives"
+177,damit,0,"other adjectives"
+178,gern,0,"other adjectives"
+179,gar,0,"other adjectives"
+180,Hand,0,"humans and animals"
+181,Herrn,1,"humans and animals"
+182,euch,0,"personal adjectives"
+183,sollte,0,"other verbs"
+184,konnte,0,"other verbs"
+185,ersten,0,numbers
+186,deren,0,"personal adjectives"
+187,zwischen,0,"other adjectives"
+188,wollen,0,"other verbs"
+189,denen,0,"personal adjectives"
+190,dessen,0,"personal adjectives"
+191,sagen,0,"other verbs"
+192,bin,0,"other verbs"
+193,Menschen,0,"humans and animals"
+194,gut,0,"other adjectives"
+195,darauf,0,"other adjectives"
+196,wurden,0,"other verbs"
+197,weiß,0,"other verbs"
+198,gewesen,0,"other verbs"
+199,Seite,0,"other Nouns"
+200,bald,0,"other adjectives"
+201,weit,0,"other adjectives"
+202,große,0,"other adjectives"
+203,solche,0,"personal adjectives"
+204,hatten,0,"other verbs"
+205,eben,0,"other adjectives"
+206,andern,0,"other adjectives"
+207,beiden,0,numbers
+208,macht,0,"other verbs"
+209,sehen,0,"other verbs"
+210,ganze,0,"other adjectives"
+211,anderen,0,"personal adjectives"
+212,lange,0,"other adjectives"
+213,wer,0,"personal adjectives"
+214,ihrem,0,"personal adjectives"
+215,zwar,0,"other adjectives"
+216,gemacht,0,"other verbs"
+217,dort,0,"other adjectives"
+218,kommen,0,"other verbs"
+219,Welt,0,"other Nouns"
+220,heute,0,time
+221,Frau,0,"humans and animals"
+222,werde,0,"other verbs"
+223,derselben,0,"other adjectives"
+224,ganzen,0,"other adjectives"
+225,deutschen,0,"other adjectives"
+226,lässt,1,"other verbs"
+227,vielleicht,0,"other adjectives"
+228,meiner,0,"personal adjectives"
+229,Seide,1,materials
+230,schwarz,0,colors
+231,blau,0,colors
+232,rot,0,colors
+233,gelb,0,colors
+234,grün,0,colors
+235,braun,0,colors
+236,violett,1,colors
+237,orange,0,colors
+238,grau,0,colors
+239,Silber,0,materials
+240,Gold,0,materials
+241,rosa,1,colors
+242,Kupfer,1,materials
+243,Eisen,1,materials
+244,Stahl,1,materials
+245,Dame,1,"humans and animals"
+246,Haus,0,"at home"
+247,Garten,0,"at home"
+248,Tür,0,"at home"
+249,Fenster,1,"at home"
+250,Raum,0,"at home"
+251,Straße,0,"at home"
+252,Stiege,1,"at home"
+253,Weg,0,"at home"
+254,Achtung!,0,phrases
+255,Karte,1,travel
+256,rechts,0,travel
+257,links,0,travel
+258,oben,0,"other adjectives"
+259,unten,0,"other adjectives"
+260,danke,0,phrases
+261,bitte,0,phrases
+262,"Guten Tag!",0,phrases
+263,"Guten Abend!",1,phrases
+264,Hallo!,0,phrases
+265,"Wie gehts?",1,phrases
+266,schlecht,0,"other adjectives"
+267,"Auf Wiedersehen!",0,phrases
+268,Tschüß!,0,phrases
+269,nein,0,phrases
+270,sehr,0,"other adjectives"
+271,"Sprechen Sie deutsch?",1,phrases
+272,"Entschuldigen Sie!",1,phrases
+273,Rindfleisch,0,"eat and drink"
+274,Putenfleisch,1,"eat and drink"
+275,Fisch,0,"eat and drink"
+276,Restaurant,0,"eat and drink"
+277,Schweinefleisch,1,"eat and drink"
+278,Ei,0,"eat and drink"
+279,Salat,0,"eat and drink"
+280,Gemüse,1,"eat and drink"
+281,Kartoffel,1,"eat and drink"
+282,Wasser,0,"eat and drink"
+283,Mineralwasser,1,"eat and drink"
+284,Eistee,1,"eat and drink"
+285,Cola,1,"eat and drink"
+286,Bier,1,"eat and drink"
+287,Kuchen,1,"eat and drink"
+288,Vorspeise,1,"eat and drink"
+289,Hauptspeise,1,"eat and drink"
+290,Beilage,1,"eat and drink"
+291,Nachspeise,1,"eat and drink"
+292,Wein,0,"eat and drink"
+293,Zitrone,1,"eat and drink"
+294,Apfel,0,"eat and drink"
+295,Tomate,0,"eat and drink"
+296,Banane,0,"eat and drink"
+297,Eis,0,"eat and drink"
+298,Eiscreme,0,"eat and drink"
+299,Gabel,1,"eat and drink"
+300,Messer,1,"eat and drink"
+301,Löffel,1,"eat and drink"
+302,Zunge,1,"humans and animals"
+303,morgen,0,time
+304,gestern,0,time
+305,Soße,1,"eat and drink"
+306,"in 2 Tagen",1,time
+307,Tag,0,time
+308,Woche,0,time
+309,Monat,0,time
+310,Jahr,1,time
+311,Minute,0,time
+312,Stunde,0,time
+313,Sekunde,0,time
+314,halb,1,time
+315,"Wie spät ist es?",1,phrases
+316,"Was ist das?",1,phrases
+317,"Was kostet das?",1,phrases
+318,hier,0,phrases
+319,verwenden,1,"other verbs"
+320,Wo?,0,phrases
+321,"Ist dieser Tisch frei?",1,phrases
+322,"Wo ist die Toilette?",1,phrases
+323,Frage,0,"other Nouns"
+324,Antwort,0,"other Nouns"
+325,"Wo gibt es ...?",1,phrases
+326,geradeaus,1,travel
+327,"Wie heißt du?",1,phrases
+328,"Eine Karte bitte",1,phrases
+329,Rechnung,0,"eat and drink"
+330,Herz,0,"humans and animals"
+331,"ich suche",1,phrases
+332,"ich möchte",1,phrases
+333,"Haben Sie ...?",1,phrases
+334,"Können Sie mir bitte helfen?",1,phrases
+335,"Rufen Sie schnell einen Krankenwagen!",1,phrases
+336,Flugzeug,0,travel
+337,Auto,0,travel
+338,Maschine,0,"other Nouns"
+339,Strand,1,travel
+340,Meer,0,travel
+341,See,0,travel
+342,Berg,0,travel
+343,Land,0,travel
+344,Wort,0,"other Nouns"
+345,Schiff,0,travel
+346,Gepäck,1,travel
+347,Zug,0,travel
+348,Motorrad,0,travel
+349,Fahrrad,0,travel
+350,Hotel,0,travel
+351,Satz,0,"other Nouns"
+352,Wohnung,1,"at home"
+353,wichtig,0,"other adjectives"
+354,Bus,0,travel
+355,Taxi,0,travel
+356,essen,0,"eat and drink"
+357,gemeinsam,0,"other adjectives"
+358,Arzt,1,work
+359,Apotheke,1,work
+360,Polizei,0,work
+361,Feuerwehr,1,work
+362,Bank,0,work
+363,Post,0,work
+364,Bankomat,0,travel
+365,Cafe,0,"eat and drink"
+366,Kaffee,0,"eat and drink"
+367,Tee,0,"eat and drink"
+368,Schuhe,0,clothes
+369,T-Shirt,0,clothes
+370,Kleid,1,clothes
+371,Hut,0,clothes
+372,Socken,0,clothes
+373,Hose,0,clothes
+374,Pullover,0,clothes
+375,Jacke,0,clothes
+376,Schal,1,clothes
+377,baden,1,"other verbs"
+378,Spiel,0,"free time"
+379,Therme,1,travel
+380,Schule,0,work
+381,Sport,0,"free time"
+382,Theater,0,"free time"
+383,Kino,0,"free time"
+384,Musik,0,"free time"
+385,singen,0,"other verbs"
+386,Wetter,1,weather
+387,Sonne,0,weather
+388,Regen,0,weather
+389,Wolke,1,weather
+390,Himmel,1,weather
+391,Erde,0,"other Nouns"
+392,Gras,0,"other Nouns"
+393,heiß,0,weather
+394,kalt,0,weather
+395,Temperatur,0,weather
+396,Grad,0,weather
+397,Arm,0,"humans and animals"
+398,Bein,0,"humans and animals"
+399,Kopf,0,"humans and animals"
+400,Bauch,1,"humans and animals"
+401,Bär,0,"humans and animals"
+402,Fuß,0,"humans and animals"
+403,Körper,0,"humans and animals"
+404,Auge,0,"humans and animals"
+405,Mund,0,"humans and animals"
+406,Nase,0,"humans and animals"
+407,Ohr,0,"humans and animals"
+408,schreiben,0,"other verbs"
+409,Hals,1,"humans and animals"
+410,Zahl,0,numbers
+411,Foto,0,"free time"
+412,Handy,0,"at home"
+413,Computer,0,"at home"
+414,Tisch,0,"at home"
+415,Stuhl,0,"at home"
+416,Fernseher,0,"at home"
+417,Knopf,1,"other Nouns"
+418,Mantel,1,clothes
+419,Wand,0,"at home"
+420,Freund,0,"humans and animals"
+421,Mädchen,0,"humans and animals"
+422,Junge,0,"humans and animals"
+423,Stift,1,"at home"
+424,Papier,1,"at home"
+425,Baum,0,"other Nouns"
+426,Affe,1,"humans and animals"
+427,Blume,0,"other Nouns"
+428,hören,0,"other verbs"
+429,Kuh,0,"humans and animals"
+430,Pferd,1,"humans and animals"
+431,Hund,0,"humans and animals"
+432,Hase,0,"humans and animals"
+433,Katze,0,"humans and animals"
+434,Maus,0,"humans and animals"
+435,Käfer,1,"humans and animals"
+436,Biene,0,"humans and animals"
+437,nachts,1,time
+438,tags,1,time
+439,Uhr,1,time
+440,Reise,1,travel
+441,dumm,0,"other adjectives"
+442,Platz,0,"other Nouns"
+443,frei,0,"other adjectives"
+444,Tankstelle,1,travel
+445,denken,0,"other verbs"
+446,"Wie viel kostet das?",1,phrases
+447,einfach,0,"other adjectives"
+448,schwierig,0,"other adjectives"
+449,hin,0,"other adjectives"
+450,zurück,0,"other adjectives"
+451,Reparatur,0,"other Nouns"
+452,kaputt,0,"other adjectives"
+453,Koffer,1,travel
+454,Kind,0,"humans and animals"
+455,Gang,1,"at home"
+456,trinken,0,"eat and drink"
+457,Flughafen,0,travel
+458,Bahnhof,1,travel
+459,extra,0,"other adjectives"
+460,Montag,0,time
+461,Dienstag,0,time
+462,Mittwoch,0,time
+463,Donnerstag,0,time
+464,Freitag,0,time
+465,Samstag,0,time
+466,Sonntag,0,time
+467,Januar,0,time
+468,Februar,0,time
+469,März,0,time
+470,zehnter,1,numbers
+471,April,0,time
+472,2021,1,time
+473,Mai,0,time
+474,Juni,0,time
+475,Juli,0,time
+476,August,0,time
+477,September,0,time
+478,Oktober,0,time
+479,November,0,time
+480,Dezember,0,time
+481,Seil,1,"other Nouns"
+482,Zaun,1,"at home"
+483,Stadt,0,"at home"
+484,Dorf,1,"at home"
+485,Euro,0,work
+486,Geld,0,work
+487,Benzin,0,travel
+488,Öl,0,travel
+489,Diesel,0,travel
+490,Schraube,1,"other Nouns"
+491,schnell,0,travel
+492,langsam,0,travel
+493,Bremse,1,travel
+494,Motor,1,travel
+495,fahren,0,travel
+496,Kurve,1,travel
+497,Kreuzung,1,travel
+498,Ampel,1,travel
+499,Kirche,1,travel
+500,Spiegel,1,"at home"
+501,Reh,1,"humans and animals"
+502,Vogel,0,"humans and animals"
+503,schade,0,"other adjectives"
+504,verschwinden,1,"other verbs"
+505,"gefällt mir",1,emotions
+506,englisch,0,travel
+507,wiederholen,1,"other verbs"
+508,Glück,0,emotions
+509,Wochenende,1,time
+510,Partner,0,"humans and animals"
+511,Hochzeit,1,"other Nouns"
+512,verheiratet,0,"other adjectives"
+513,"Wie alt bist du?",1,phrases
+514,Firma,1,work
+515,Nummer,0,numbers
+516,Adresse,0,"at home"
+517,"nach Hause",0,"at home"
+518,tanzen,0,"free time"
+519,Haare,0,"humans and animals"
+520,zufrieden,1,emotions
+521,egal,0,"other adjectives"
+522,Hilfe,0,"other Nouns"
+523,"Kein Problem!",1,phrases
+524,Beruf,1,"at home"
+525,Arbeit,0,"at home"
+526,Vater,0,"humans and animals"
+527,Mutter,0,"humans and animals"
+528,Oma,1,"humans and animals"
+529,Tochter,1,"humans and animals"
+530,Sohn,0,"humans and animals"
+531,Bruder,0,"humans and animals"
+532,Schwester,0,"humans and animals"
+533,Student,0,work
+534,Oper,1,travel
+535,Universität,1,work
+536,Frühstück,0,"eat and drink"
+537,Mittagessen,0,"eat and drink"
+538,Abendessen,0,"eat and drink"
+539,Snack,0,"eat and drink"
+540,Schokolade,0,"eat and drink"
+541,Buch,0,"free time"
+542,Kasten,1,"at home"
+543,Schlüssel,0,"at home"
+544,Brieftasche,1,"at home"
+545,Strom,1,"at home"
+546,erzählen,0,"other verbs"
+547,schön,0,"other adjectives"
+548,Dusche,0,"at home"
+549,Kamera,0,"free time"
+550,Bild,0,"at home"
+551,Toilette,0,"at home"
+552,Netz,1,"at home"
+553,zusperren,1,"other verbs"
+554,Eingang,0,"at home"
+555,Ausgang,0,"at home"
+556,Ofen,0,"at home"
+557,Kühlschrank,0,"at home"
+558,Bäckerei,1,"eat and drink"
+559,Geschäft,1,work
+560,Metzgerei,1,"eat and drink"
+561,Nutzen,0,"other Nouns"
+562,Flasche,0,"eat and drink"
+563,Glas,0,"eat and drink"
+564,Teller,0,"eat and drink"
+565,Luft,1,weather
+566,Gas,0,"other Nouns"
+567,Aufzug,1,"at home"
+568,Etage,1,"at home"
+569,Bett,0,"at home"
+570,Heizung,1,"at home"
+571,kochen,0,"eat and drink"
+572,Klimaanlage,1,"at home"
+573,Licht,0,"at home"
+574,Müll,0,"at home"
+575,schlafen,0,"other verbs"
+576,Telefon,0,"at home"
+577,Brot,0,"eat and drink"
+578,"Guten Appetit!",1,phrases
+579,"Zum Wohl!",0,phrases
+580,Einladung,1,"free time"
+581,fehlt,0,"other verbs"
+582,Suppe,0,"eat and drink"
+583,Schinken,0,"eat and drink"
+584,Wurst,1,"eat and drink"
+585,Nudeln,0,"eat and drink"
+586,Reis,0,"eat and drink"
+587,Huhn,1,"humans and animals"
+588,Käse,0,"eat and drink"
+589,grillen,1,"eat and drink"
+590,Limonade,0,"eat and drink"
+591,Saft,0,"eat and drink"
+592,Milch,0,"eat and drink"
+593,Zucker,0,"eat and drink"
+594,Salz,0,"eat and drink"
+595,warm,0,weather
+596,Obst,0,"eat and drink"
+597,Stück,0,"other Nouns"
+598,NULL,0,general
+599,NULL,0,general
+600,Blut,0,"humans and animals"
+601,Alkohol,0,"eat and drink"
+602,Stimmt!,0,phrases
+603,fett,0,"eat and drink"
+604,dick,0,"other adjectives"
+605,dünn,0,"other adjectives"
+606,Brille,0,clothes
+607,Nachricht,1,"free time"
+608,Traum,0,"free time"
+609,Wunsch,0,"free time"
+610,waschen,0,"other verbs"
+611,Erdbeere,0,"eat and drink"
+612,Zwiebel,0,"eat and drink"
+613,Wolle,1,materials
+614,Leder,1,materials
+615,Holz,0,materials
+616,Stoff,1,materials
+617,Badehose,1,clothes
+618,Anzug,1,clothes
+619,Seife,0,materials
+620,Feuerzeug,1,"at home"
+621,öffnen,0,"other verbs"
+622,schließen,0,"other verbs"
+623,Kerze,1,"at home"
+624,Feuer,0,"other Nouns"
+625,Film,1,"free time"
+626,lesen,0,"other verbs"
+627,lernen,0,"other verbs"
+628,rauchen,0,"other verbs"
+629,gehen,0,"other verbs"
+630,Zigarette,0,"free time"
+631,Kleber,1,"other Nouns"
+632,Schere,0,"other Nouns"
+633,gefährlich,0,"other adjectives"
+634,markiert,0,"other adjectives"
+635,gespeichert,0,"other adjectives"
+636,mieten,0,"other verbs"
+637,kaufen,0,"other verbs"
+638,schwimmen,0,"free time"
+639,Ball,0,"free time"
+640,Gesicht,1,"humans and animals"
+641,Tasche,1,clothes
+642,einzeln,1,numbers
+643,doppelt,1,numbers
+644,Maske,0,clothes
+645,Fußball,0,"free time"
+646,Tennis,0,"free time"
+647,verlieren,0,"other verbs"
+648,bekommen,0,"other verbs"
+649,gewinnen,0,"other verbs"
+650,springen,0,"other verbs"
+651,Gebäude,1,travel
+652,Familie,0,"humans and animals"
+653,Feld,0,travel
+654,Insel,1,travel
+655,glauben,1,"other verbs"
+656,Mitte,0,"other Nouns"
+657,Reihe,0,"other Nouns"
+658,Bar,0,travel
+659,Schmerzen,0,emotions
+660,Zahn,1,"humans and animals"
+661,Haut,0,"humans and animals"
+662,Finger,0,"humans and animals"
+663,Anzeige,0,"other Nouns"
+664,zeigen,0,"other verbs"
+665,schlafen,0,"other verbs"
+666,entscheiden,1,"other verbs"
+667,Tablette,0,"other Nouns"
+668,Fieber,1,"other Nouns"
+669,,0,"other adjectives"
+670,früh,0,time
+671,spät,0,time
+672,NULL,0,general
+673,Frühling,1,time
+674,Sommer,1,time
+675,Herbst,1,time
+676,Winter,1,time
+677,nass,0,weather
+678,Abend,0,time
+679,Mittag,0,time
+680,Nacht,0,time
+681,Blitz,1,weather
+682,Mond,0,weather
+683,Stern,0,weather
+684,Wind,0,weather
+685,fehlen,0,"other verbs"
+686,anders,0,"other adjectives"
+687,Angst,0,emotions
+688,Freude,0,emotions
+689,nervös,0,emotions
+690,müde,0,emotions
+691,arm,0,"other adjectives"
+692,reich,0,"other adjectives"
+693,nehmen,0,"other verbs"
+694,NULL,0,general
+695,zahlen,0,"other verbs"
+696,beenden,0,"other verbs"
+697,beginnen,0,"other verbs"
+698,steuern,1,"other verbs"
+699,bequem,1,emotions
+700,erkennen,1,"other verbs"
+701,kennen,0,"other verbs"
+702,"ein bisschen",0,"other adjectives"
+703,breit,0,"other adjectives"
+704,hoch,0,"other adjectives"
+705,lang,0,"other adjectives"
+706,schwer,0,"other adjectives"
+707,besitzen,0,"other verbs"
+708,bringen,0,"other verbs"
+709,Ding,0,"other Nouns"
+710,dringend,0,"other adjectives"
+711,Ecke,0,"other Nouns"
+712,"ein paar",0,"other adjectives"
+713,falsch,0,"other adjectives"
+714,richtig,0,"other adjectives"
+715,Fehler,0,"other Nouns"
+716,folgen,0,"other verbs"
+717,freundlich,0,emotions
+718,NULL,0,general
+719,Gesetz,1,work
+720,glatt,0,"other adjectives"
+721,holen,0,"other verbs"
+722,Idee,1,work
+723,innen,0,"other adjectives"
+724,außen,0,"other adjectives"
+725,interessant,0,emotions
+726,jeder,0,"personal adjectives"
+727,jemand,0,"personal adjectives"
+728,jung,0,"other adjectives"
+729,alt,0,"other adjectives"
+730,Kette,1,clothes
+731,Hügel,1,travel
+732,intelligent,0,emotions
+733,NULL,0,general
+734,leer,0,"other adjectives"
+735,voll,0,"other adjectives"
+736,Lied,1,"free time"
+737,leihen,1,"other verbs"
+738,locker,0,"other adjectives"
+739,lustig,0,emotions
+740,mitnehmen,0,"other verbs"
+741,mutig,1,emotions
+742,Name,0,"humans and animals"
+743,Nachrichten,0,"at home"
+744,nie,0,"other adjectives"
+745,NULL,0,general
+746,niemand,0,"personal adjectives"
+747,NULL,0,general
+748,oft,0,"other adjectives"
+749,selten,0,"other adjectives"
+750,Original,0,"other Nouns"
+751,Norden,0,travel
+752,offiziell,0,"other adjectives"
+753,Osten,0,travel
+754,wissen,0,"other verbs"
+755,Süden,0,travel
+756,Westen,0,travel
+757,Österreich,1,travel
+758,wohnen,0,"at home"
+759,Pass,0,travel
+760,Park,0,travel
+761,Pause,0,"free time"
+762,Pech,0,emotions
+763,Plan,0,travel
+764,Plastik,0,materials
+765,Preis,0,"other Nouns"
+766,testen,0,"other verbs"
+767,Erwachsener,1,"humans and animals"
+768,retten,1,"other verbs"
+769,riechen,1,"humans and animals"
+770,NULL,0,general
+771,rufen,1,"other verbs"
+772,sammeln,0,"other verbs"
+773,Schaden,1,"other Nouns"
+774,Saison,1,time
+775,Scherz,0,emotions
+776,senden,0,"other verbs"
+777,schlagen,0,"other verbs"
+778,Schuld,1,emotions
+779,schützen,1,"other verbs"
+780,erschrecken,1,"other verbs"
+781,schneiden,0,"other verbs"
+782,leise,0,"other adjectives"
+783,laut,0,"other adjectives"
+784,sicher,0,"other adjectives"
+785,sitzen,0,"other verbs"
+786,stehen,0,"other verbs"
+787,liegen,0,"other verbs"
+788,sofort,0,"other adjectives"
+789,sonst,0,"other adjectives"
+790,Spaß,0,emotions
+791,Spinne,1,"humans and animals"
+792,Spitze,0,"other Nouns"
+793,rund,0,"other adjectives"
+794,hart,0,"other adjectives"
+795,weich,0,"other adjectives"
+796,stark,0,"other adjectives"
+797,schwach,0,"other adjectives"
+798,Stein,0,"other Nouns"
+799,statt,0,"other adjectives"
+800,Stimme,1,"humans and animals"
+801,stolz,0,emotions
+802,Strafe,0,"other Nouns"
+803,teilnehmen,1,"other verbs"
+804,Termin,1,work
+805,tief,0,"other adjectives"
+806,Geräusch,1,"other Nouns"
+807,tragen,0,"other verbs"
+808,leben,0,"other verbs"
+809,sterben,0,"other verbs"
+810,traurig,0,emotions
+811,treu,1,emotions
+812,trocken,1,weather
+813,trennen,0,"other verbs"
+814,trotzdem,0,"other adjectives"
+815,NULL,0,general
+816,unter,0,"other adjectives"
+817,möglich,0,"other adjectives"
+818,Blödsinn,1,"other Nouns"
+819,Unterschrift,1,work
+820,Titel,0,work
+821,unterwegs,1,travel
+822,unterbrechen,1,"other verbs"
+823,unverständlich,0,"other adjectives"
+824,Ursache,0,"other Nouns"
+825,verboten,0,"other verbs"
+826,brauchen,0,"other verbs"
+827,verantwortlich,1,work
+828,verbessern,0,"other verbs"
+829,vergessen,0,"other verbs"
+830,Verkehr,1,travel
+831,verhindern,1,"other verbs"
+832,verlassen,0,"other verbs"
+833,verschieden,0,"other adjectives"
+834,NULL,0,general
+835,versprechen,1,"other verbs"
+836,Vertrag,1,work
+837,verstecken,0,"other verbs"
+838,versuchen,0,"other verbs"
+839,vertrauen,0,"other verbs"
+840,NULL,0,general
+841,wenig,0,"other adjectives"
+842,vorne,0,"other adjectives"
+843,hinten,0,"other adjectives"
+844,"Auf gehts!",1,phrases
+845,Wahrheit,0,"other Nouns"
+846,lügen,0,"other verbs"
+847,wachsen,0,"other verbs"
+848,wechseln,0,"other verbs"
+849,einschalten,0,"other verbs"
+850,ausschalten,0,"other verbs"
+851,wegen,0,"other adjectives"
+852,wählen,0,"other verbs"
+853,weinen,0,emotions
+854,kurz,0,"other adjectives"
+855,NULL,0,general
+856,wegwerfen,1,"other verbs"
+857,wenigstens,0,"other adjectives"
+858,höchstens,0,"other adjectives"
+859,Werbung,1,"other Nouns"
+860,empfehlen,0,"other verbs"
+861,wertvoll,0,"other adjectives"
+862,NULL,0,general
+863,Wunder,0,"other Nouns"
+864,Sofa,0,"at home"
+865,Ziel,0,"other Nouns"
+866,Start,0,"other Nouns"
+867,Punkt,0,"other Nouns"
+868,Linie,0,"other Nouns"
+869,Kreis,0,"other Nouns"
+870,Rechteck,1,"other Nouns"
+871,Dreieck,1,"other Nouns"
+872,Zentrum,0,travel
+873,ziemlich,0,"other adjectives"
+874,zerstören,0,"other verbs"
+875,NULL,0,general
+876,zufällig,0,"other adjectives"
+877,Zukunft,1,time
+878,Geschichte,1,time
+879,rechnen,1,numbers
+880,"zum Beispiel",1,phrases
+881,zuletzt,0,"other adjectives"
+882,Zustand,1,"other Nouns"
+883,Zylinder,0,"other Nouns"
+884,zusammen,0,"other adjectives"
+885,Kegel,1,"other Nouns"
+886,Ladegerät,0,"other Nouns"
+887,Prozent,0,numbers
+888,Liste,0,"other Nouns"
+889,Video,0,"free time"
+890,drücken,0,"other verbs"
+891,ziehen,0,"other verbs"
+892,Elefant,0,"humans and animals"
+893,Pinguin,0,"humans and animals"
+894,Löwe,1,"humans and animals"
+895,Disco,0,travel
+896,privat,0,"other adjectives"
+897,Kappe,1,clothes
+898,Lautsprecher,0,"other Nouns"
+899,Lehrer,1,work
+900,Rock,1,clothes
+901,Geburtstag,0,"free time"
+902,Freizeit,0,travel
+903,Urlaub,0,travel
+904,Rad,0,travel
+905,unbekannt,0,"other adjectives"
+906,Wecker,1,"at home"
+907,Garderobe,1,"at home"
+908,Küche,0,"at home"
+909,Badewanne,1,"at home"
+910,Zahnbürste,1,"at home"
+911,Radio,0,travel
+912,Brief,0,travel
+913,Pfeffer,0,"eat and drink"
+914,Schlange,1,"humans and animals"
+915,Balkon,0,"at home"
+916,Richtung,1,travel
+917,Rucksack,0,travel
+918,Brücke,1,travel
+919,Tunnel,1,travel
+920,Bart,1,"humans and animals"
+921,Pokal,1,"free time"
+922,Matte,1,"at home"
+923,Kiste,1,"at home"
+924,Decke,1,"at home"
+925,Keller,0,"at home"
+926,Garage,0,"at home"
+927,Regal,1,"at home"
+928,Boden,0,"at home"
+929,bewegen,0,"other verbs"
+930,berühren,0,"other verbs"
+931,Zeitung,1,"at home"
+932,Nebel,1,weather
+933,Schnee,0,weather
+934,Hemd,1,clothes
+935,fliegen,0,travel
+936,fallen,0,"other verbs"
+937,Helm,1,clothes
+938,Sprache,1,travel
+939,brechen,0,"other verbs"
+940,Aussicht,1,travel
+941,zeichnen,0,"free time"
+942,allgemein,0,"other adjectives"
+943,laden,0,"other verbs"
+944,beschleunigen,0,"other verbs"
+945,scheinen,0,"other verbs"
+946,entspannen,0,"free time"
+947,Hagel,1,weather
+948,faul,0,emotions
+949,ehrgeizig,0,emotions
+950,geben,0,"other verbs"
+951,Waschbecken,1,"at home"
+952,schenken,0,"other verbs"
+953,Schatz,1,"other Nouns"
+954,süß,0,"eat and drink"
+955,scharf,0,"eat and drink"
+956,sauer,0,"eat and drink"
+957,eklig,0,"other adjectives"
+958,bitter,0,"eat and drink"
+959,tot,0,"other adjectives"
+960,spielen,0,"free time"
+961,Dekoration,0,"at home"
+962,Fernbedienung,1,"at home"
+963,Lastwagen,0,travel
+964,Tuch,1,"at home"
+965,Polster,1,"at home"
+966,Dose,0,"eat and drink"
+967,Paket,0,"other Nouns"
+968,Verbindung,1,"other Nouns"
+969,Dach,0,"at home"
+970,Vorhang,1,"at home"
+971,Waage,1,"other Nouns"
+972,Datum,0,time
+973,Fahne,0,"other Nouns"
+974,Durchschnitt,1,numbers
+975,Fall,0,"other Nouns"
+976,Gruppe,0,travel
+977,Summe,0,numbers
+978,Rang,0,numbers
+979,NULL,0,general
+980,führen,1,"other verbs"
+981,Fläche,1,numbers
+982,Gewitter,1,weather
+983,prüfen,1,"other verbs"
+984,Rennen,0,"free time"
+985,Frosch,1,"humans and animals"
+986,Krokodil,0,"humans and animals"
+987,Fliege,1,"humans and animals"
+988,Mücke,1,"humans and animals"
+989,Schwein,1,"humans and animals"
+990,Schaf,1,"humans and animals"
+991,NULL,0,general
+992,NULL,0,general
+993,NULL,0,general
+994,NULL,0,general
+995,NULL,0,general
+996,NULL,0,general
+997,NULL,0,general
+998,NULL,0,general
+999,NULL,0,general
+1000,NULL,0,general
