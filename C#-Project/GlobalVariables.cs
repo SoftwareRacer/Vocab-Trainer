@@ -8,8 +8,9 @@ namespace Vocab_Trainer
 {
     class GlobalVariables
     {
-        //public static string GlobalMySqlCon = "server=localhost; port=3306; username=root; password=jvle5Xzr";
+        public static string GlobalMySqlCon = "server=localhost; port=3306; username=root; password=jvle5Xzr";
         public static string input = @"setup.ini";
-        public static string EditorMySqlCon = "server=localhost; port=3306; username=root; password=jvle5Xzr; database=mysqleditor";
+        public static string EditorMySqlCon = "server=localhost; port=3306; username=root; password=jvle5Xzr; database=listofwords";
+        public static string sqlCommand = "";
     }
 }
