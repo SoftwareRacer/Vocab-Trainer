@@ -1,3 +1,3 @@
 # Vocab-Trainer
 
-3296 relevant lines of code
+4856 relevant lines of code
