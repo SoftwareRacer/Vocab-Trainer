@@ -1,0 +1,1001 @@
+index,word,difficulty,category
+1,de,0,"personal adjectives"
+2,de,0,"personal adjectives"
+3,de,0,"personal adjectives"
+4,och,0,"other adjectives"
+5,i,0,"other adjectives"
+6,till,0,"other adjectives"
+7,de,0,"personal adjectives"
+8,inte,0,"other adjectives"
+9,av,0,"other adjectives"
+10,du,0,"personal adjectives"
+11,Ã¤r,0,"other verbs"
+12,av,0,"personal adjectives"
+13,sjÃ¤lv,0,"personal adjectives"
+14,med,0,"other adjectives"
+15,de,0,"personal adjectives"
+16,"det Ã¤r",0,"other adjectives"
+17,han,0,"personal adjectives"
+18,det,0,"personal adjectives"
+19,a,0,"personal adjectives"
+20,jag,0,"personal adjectives"
+21,pa,0,"other adjectives"
+22,sa,0,"other adjectives"
+23,a,0,"personal adjectives"
+24,ocksa,0,"other adjectives"
+25,som,0,"other adjectives"
+26,pa,0,"other adjectives"
+27,till,0,"other adjectives"
+28,hur,0,"other adjectives"
+29,i,0,"other adjectives"
+30,fÃ¶r,0,"other adjectives"
+31,man,0,"personal adjectives"
+32,men,0,"other adjectives"
+33,ut,0,"other adjectives"
+34,fÃ¶rbi,0,"other adjectives"
+35,om,0,"other adjectives"
+36,bara,0,"other adjectives"
+37,var,0,"other adjectives"
+38,fortfarande,0,"other adjectives"
+39,bli,0,"other verbs"
+40,pa,0,"other adjectives"
+41,har,0,"other verbs"
+42,vi,0,"personal adjectives"
+43,vad,0,"other adjectives"
+44,Ã¤r,0,"other verbs"
+45,vara,0,"other verbs"
+46,ett,0,"personal adjectives"
+47,som,0,"other adjectives"
+48,utsÃ¶kt,0,"eat and drink"
+49,eller,0,"other adjectives"
+50,till,0,"personal adjectives"
+51,"att ha",0,"other verbs"
+52,"runt omkring",0,"other adjectives"
+53,ett,0,"personal adjectives"
+54,mig,0,"personal adjectives"
+55,dessa,0,"personal adjectives"
+56,ovan,0,"other adjectives"
+57,honom,0,"personal adjectives"
+58,ett,0,"personal adjectives"
+59,du,0,"personal adjectives"
+60,oss,0,"personal adjectives"
+61,dÃ¤r,0,"other adjectives"
+62,till,0,"personal adjectives"
+63,burk,0,"other verbs"
+64,men,0,"other adjectives"
+65,framfÃ¶r,0,"other adjectives"
+66,detta,0,"personal adjectives"
+67,mig,0,"personal adjectives"
+68,honom,0,"personal adjectives"
+69,du,0,"personal adjectives"
+70,"skulle ha",0,"other verbs"
+71,hans,0,"personal adjectives"
+72,mer,0,"other adjectives"
+73,vid,0,"other adjectives"
+74,"dÃ¤rfÃ¶r att",0,"other adjectives"
+75,dem,0,"personal adjectives"
+76,hans,0,"personal adjectives"
+77,allt,0,"other adjectives"
+78,"om igen",0,"other adjectives"
+79,min,0,"personal adjectives"
+80,tid,0,time
+81,mot,0,"other adjectives"
+82,fran,0,"personal adjectives"
+83,allt,0,"other adjectives"
+84,enskild,0,"other adjectives"
+85,var,0,"other adjectives"
+86,maste,0,"other verbs"
+87,utan,0,"other adjectives"
+88,ett,0,numbers
+89,burk,0,"other verbs"
+90,vara,0,"other verbs"
+91,ja,0,phrases
+92,"har varit",0,"other verbs"
+93,nu,0,time
+94,alltid,0,"other adjectives"
+95,hans,0,"personal adjectives"
+96,vÃ¤l,0,"other adjectives"
+97,detta,0,"personal adjectives"
+98,deras,0,"personal adjectives"
+99,skulle,0,"other verbs"
+100,detta,0,"personal adjectives"
+101,snarare,0,"other adjectives"
+102,"dÃ¤rfÃ¶r att",0,"other adjectives"
+103,vilken,0,"personal adjectives"
+104,ingenting,0,"other adjectives"
+105,detta,0,"personal adjectives"
+106,allt,0,"other adjectives"
+107,var,0,"other verbs"
+108,vilja,0,"other verbs"
+109,her,0,"humans and animals"
+110,mycket,0,"other adjectives"
+111,min,0,"personal adjectives"
+112,sa,0,"other adjectives"
+113,skall,0,"other verbs"
+114,varit,0,"other verbs"
+115,"att lata",0,"other verbs"
+116,detta,0,"other adjectives"
+117,do,0,"other verbs"
+118,"av deras",0,"other adjectives"
+119,ytterligare,0,"other adjectives"
+120,Liv,0,"other Nouns"
+121,lag,0,"other adjectives"
+122,nagot,0,"other adjectives"
+123,nej,0,"other adjectives"
+124,hans,0,"personal adjectives"
+125,om,0,"other adjectives"
+126,"till dig",0,"personal adjectives"
+127,allt,0,"personal adjectives"
+128,enorm,0,"other adjectives"
+129,ar,1,time
+130,klok,0,"other nouns"
+131,maste,0,"other verbs"
+132,vilken,0,"personal adjectives"
+133,skulle,0,"other verbs"
+134,fÃ¶rst,0,"other adjectives"
+135,"en gang",0,"other adjectives"
+136,man,0,"humans and animals"
+137,"skulle ha",0,"other verbs"
+138,tva,0,numbers
+139,su,0,"personal adjectives"
+140,ensam,0,"other adjectives"
+141,ett,0,numbers
+142,tre,0,numbers
+143,fyra,0,numbers
+144,fem,0,numbers
+145,sex,0,numbers
+146,sju,0,numbers
+147,atta,0,numbers
+148,nio,0,numbers
+149,tio,0,numbers
+150,elva,1,numbers
+151,tretton,1,numbers
+152,tolv,1,numbers
+153,tjugo,1,numbers
+154,tjugoett,1,numbers
+155,trettio,1,numbers
+156,fyrtio,1,numbers
+157,femtio,1,numbers
+158,sextio,1,numbers
+159,sjuttio,1,numbers
+160,attio,1,numbers
+161,nittio,1,numbers
+162,hundra,1,numbers
+163,"tva hundra",1,numbers
+164,tusend,1,numbers
+165,miljoner,1,numbers
+166,noll,1,numbers
+167,minus,1,numbers
+168,plus,1,numbers
+169,ganger,1,numbers
+170,nÃ¤r,0,time
+171,Herr,1,"humans and animals"
+172,medan,0,"other adjectives"
+173,paragraf,1,"other Nouns"
+174,annorlunda,0,"other adjectives"
+175,kÃ¤rlek,0,emotions
+176,nej,0,"other adjectives"
+177,"fÃ¶r att",0,"other adjectives"
+178,gÃ¤rna,0,"other adjectives"
+179,alls,0,"other adjectives"
+180,hand,0,"humans and animals"
+181,herr,1,"humans and animals"
+182,"till dig",0,"personal adjectives"
+183,skall,0,"other verbs"
+184,"skulle kunna",0,"other verbs"
+185,fÃ¶rst,0,numbers
+186,deras,0,"personal adjectives"
+187,mellan,0,"other adjectives"
+188,vilja,0,"other verbs"
+189,"de dÃ¤r",0,"personal adjectives"
+190,vars,0,"personal adjectives"
+191,sÃ¤ga,0,"other verbs"
+192,Ã¤r,0,"other verbs"
+193,mÃ¤nniskor,0,"humans and animals"
+194,vÃ¤l,0,"other adjectives"
+195,dÃ¤rpa,0,"other adjectives"
+196,var,0,"other verbs"
+197,vit,0,"other verbs"
+198,varit,0,"other verbs"
+199,sida,0,"other Nouns"
+200,snart,0,"other adjectives"
+201,langt,0,"other adjectives"
+202,storlek,0,"other adjectives"
+203,sadan,0,"personal adjectives"
+204,hade,0,"other verbs"
+205,bara,0,"other adjectives"
+206,"att fÃ¶rÃ¤ndra",0,"other adjectives"
+207,bade,0,numbers
+208,gÃ¶r,0,"other verbs"
+209,ser,0,"other verbs"
+210,hela,0,"other adjectives"
+211,Ã¶vrig,0,"personal adjectives"
+212,lang,0,"other adjectives"
+213,vem,0,"personal adjectives"
+214,henne,0,"personal adjectives"
+215,fastÃ¤n,0,"other adjectives"
+216,gjord,0,"other verbs"
+217,dÃ¤r,0,"other adjectives"
+218,komma,0,"other verbs"
+219,vÃ¤rld,0,"other Nouns"
+220,"i dag",0,time
+221,Fru,0,"humans and animals"
+222,kommer,0,"other verbs"
+223,"det samma",0,"other adjectives"
+224,hela,0,"other adjectives"
+225,tysk,0,"other adjectives"
+226,lÃ¶v,1,"other verbs"
+227,kanske,0,"other adjectives"
+228,mina,0,"personal adjectives"
+229,silke,1,materials
+230,svart,0,colors
+231,bla,0,colors
+232,rÃ¶d,0,colors
+233,gul,0,colors
+234,grÃ¶n,0,colors
+235,brun,0,colors
+236,violett,1,colors
+237,orange,0,colors
+238,gra,0,colors
+239,silver,0,materials
+240,guld,0,materials
+241,rosa,1,colors
+242,koppar,1,materials
+243,jÃ¤rn,1,materials
+244,stal,1,materials
+245,lad,1,"humans and animals"
+246,Hus,0,"at home"
+247,trÃ¤dgard,0,"at home"
+248,dÃ¶rr,0,"at home"
+249,fÃ¶nster,1,"at home"
+250,rum,0,"at home"
+251,vÃ¤g,0,"at home"
+252,Trappa,1,"at home"
+253,vÃ¤g,0,"at home"
+254,Fara!,0,phrases
+255,Karta,1,travel
+256,rÃ¤tt,0,travel
+257,VÃ¤nster,0,travel
+258,ovan,0,"other adjectives"
+259,nedan,0,"other adjectives"
+260,tack,0,phrases
+261,varsagod,0,phrases
+262,"God dag!",0,phrases
+263,"God kvÃ¤ll!",1,phrases
+264,Hej!,0,phrases
+265,"Hur mar du?",1,phrases
+266,dalig,0,"other adjectives"
+267,AdjÃ¶!,0,phrases
+268,Hejda!,0,phrases
+269,nej,0,phrases
+270,mycket,0,"other adjectives"
+271,"Pratar du tyska?",1,phrases
+272,"UrsÃ¤kta mig!",1,phrases
+273,nÃ¶tkÃ¶tt,0,"eat and drink"
+274,kalkonkÃ¶tt,1,"eat and drink"
+275,fisk,0,"eat and drink"
+276,restaurang,0,"eat and drink"
+277,flÃ¤skkÃ¶tt,1,"eat and drink"
+278,Ã¤gg,0,"eat and drink"
+279,sallad,0,"eat and drink"
+280,grÃ¶nsaker,1,"eat and drink"
+281,potatis,1,"eat and drink"
+282,vatten,0,"eat and drink"
+283,"mineral vatten",1,"eat and drink"
+284,Iste,1,"eat and drink"
+285,cola,1,"eat and drink"
+286,Ã¶l,1,"eat and drink"
+287,kaka,1,"eat and drink"
+288,fÃ¶rrÃ¤tt,1,"eat and drink"
+289,huvudrätt,1,"eat and drink"
+290,garnering,1,"eat and drink"
+291,efterrätt,1,"eat and drink"
+292,Vin,0,"eat and drink"
+293,citron,1,"eat and drink"
+294,Äpple,0,"eat and drink"
+295,tomat,0,"eat and drink"
+296,banan,0,"eat and drink"
+297,is,0,"eat and drink"
+298,Glass,0,"eat and drink"
+299,gaffel,1,"eat and drink"
+300,kniv,1,"eat and drink"
+301,sked,1,"eat and drink"
+302,tunga,1,"humans and animals"
+303,"i morgon",0,time
+304,"i gar",0,time
+305,sas,1,"eat and drink"
+306,"Om tva dagar",1,time
+307,Dag,0,time
+308,vecka,0,time
+309,manad,0,time
+310,ar,1,time
+311,"i dag",0,time
+312,timme,0,time
+313,andra,0,time
+314,halv,1,time
+315,"Vad är klockan?",1,phrases
+316,"Vad är det här?",1,phrases
+317,"Vad kostar det här?",1,phrases
+318,här,0,phrases
+319,"använda sig av",1,"other verbs"
+320,Var?,0,phrases
+321,"Är det här bordet gratis?",1,phrases
+322,"Vart finns toaletten?",1,phrases
+323,fraga,0,"other Nouns"
+324,svar,0,"other Nouns"
+325,"Var är där?",1,phrases
+326,hetero,1,travel
+327,"Vad heter du?",1,phrases
+328,"Ett kort tack",1,phrases
+329,faktura,0,"eat and drink"
+330,hiärta,0,"humans and animals"
+331,"jag letar efter",1,phrases
+332,"jag skulle vilja",1,phrases
+333,"Har du ...?",1,phrases
+334,"Kan du vara snäll och hjälpa mig?",1,phrases
+335,"Ring snabbt en ambulans!",1,phrases
+336,plan,0,travel
+337,bil,0,travel
+338,maskin,0,"other Nouns"
+339,Strand,1,travel
+340,hav,0,travel
+341,sjö,0,travel
+342,fjäll,0,travel
+343,Land,0,travel
+344,ord,0,"other Nouns"
+345,fartyg,0,travel
+346,Bagage,1,travel
+347,tag,0,travel
+348,motorcykel,0,travel
+349,cykel,0,travel
+350,hotell,0,travel
+351,mening,0,"other Nouns"
+352,platt,1,"at home"
+353,viktig,0,"other adjectives"
+354,buss,0,travel
+355,taxi,0,travel
+356,äta,0,"eat and drink"
+357,tillsammans,0,"other adjectives"
+358,läkare,1,work
+359,apotek,1,work
+360,polis,0,work
+361,brandkar,1,work
+362,Bank,0,work
+363,posta,0,work
+364,Bankomat,0,travel
+365,kafe,0,"eat and drink"
+366,kaffe,0,"eat and drink"
+367,te,0,"eat and drink"
+368,skor,0,clothes
+369,T-shirt,0,clothes
+370,klänning,1,clothes
+371,keps,0,clothes
+372,strumpor,0,clothes
+373,byxor,0,clothes
+374,tröja,0,clothes
+375,jacka,0,clothes
+376,scarf,1,clothes
+377,simning,1,"other verbs"
+378,spel,0,"free time"
+379,"termiskt bad",1,travel
+380,skola,0,work
+381,sprter,0,"free time"
+382,teater,0,"free time"
+383,biograf,0,"free time"
+384,musik,0,"free time"
+385,"att sjunga",0,"other verbs"
+386,Väder,1,weather
+387,Sol,0,weather
+388,regn,0,weather
+389,moln,1,weather
+390,himmel,1,weather
+391,jorden,0,"other Nouns"
+392,Gras,0,"other Nouns"
+393,heiÃƒÅ¸,0,weather
+394,kalt,0,weather
+395,gräs,0,weather
+396,varm,0,weather
+397,kall,0,"humans and animals"
+398,temperatur,0,"humans and animals"
+399,Grad,0,"humans and animals"
+400,fattig,1,"humans and animals"
+401,ben,0,"humans and animals"
+402,fot,0,"humans and animals"
+403,kropp,0,"humans and animals"
+404,öga,0,"humans and animals"
+405,mun,0,"humans and animals"
+406,näsa,0,"humans and animals"
+407,öra,0,"humans and animals"
+408,skriva,0,"other verbs"
+409,nacke,1,"humans and animals"
+410,siffra,0,numbers
+411,Foto,0,"free time"
+412,mobil,0,"at home"
+413,dator,0,"at home"
+414,tabell,0,"at home"
+415,stol,0,"at home"
+416,TV,0,"at home"
+417,hingst,1,"other Nouns"
+418,täcka,1,clothes
+419,vägg,0,"at home"
+420,vän,0,"humans and animals"
+421,flicka,0,"humans and animals"
+422,Pojke,0,"humans and animals"
+423,penna,1,"at home"
+424,papper,1,"at home"
+425,träd,0,"other Nouns"
+426,apa,1,"humans and animals"
+427,blomma,0,"other Nouns"
+428,Lyssna,0,"other verbs"
+429,ko,0,"humans and animals"
+430,häst,1,"humans and animals"
+431,hund,0,"humans and animals"
+432,hare,0,"humans and animals"
+433,katt,0,"humans and animals"
+434,mus,0,"humans and animals"
+435,skalbagge,1,"humans and animals"
+436,bi,0,"humans and animals"
+437,"pa natten",1,time
+438,dag,1,time
+439,klocka,1,time
+440,resa,1,travel
+441,dum,0,"other adjectives"
+442,plats,0,"other Nouns"
+443,fri,0,"other adjectives"
+444,Bensinstation,1,travel
+445,tror,0,"other verbs"
+446,"vad kostar det?",1,phrases
+447,lätt,0,"other adjectives"
+448,svar,0,"other adjectives"
+449,ner,0,"other adjectives"
+450,tillbaka,0,"other adjectives"
+451,reparera,0,"other Nouns"
+452,bruten,0,"other adjectives"
+453,resväska,1,travel
+454,barn,0,"humans and animals"
+455,redskap,1,"at home"
+456,dryck,0,"eat and drink"
+457,Flygplats,0,travel
+458,tagstation,1,travel
+459,extra,0,"other adjectives"
+460,Mandag,0,time
+461,Tisdag,0,time
+462,Onsdag,0,time
+463,Torsdag,0,time
+464,fredag,0,time
+465,Lördag,0,time
+466,Söndag,0,time
+467,Januari,0,time
+468,Februari,0,time
+469,Mars,0,time
+470,tionde,1,numbers
+471,April,0,time
+472,2021,1,time
+473,Maj,0,time
+474,Juni,0,time
+475,Juli,0,time
+476,Augusti,0,time
+477,September,0,time
+478,Oktober,0,time
+479,November,0,time
+480,December,0,time
+481,rep,1,"other Nouns"
+482,staket,1,"at home"
+483,stad,0,"at home"
+484,By,1,"at home"
+485,Euro,0,work
+486,pengar,0,work
+487,Bensin,0,travel
+488,olja,0,travel
+489,diesel,0,travel
+490,skruva,1,"other Nouns"
+491,snabb,0,travel
+492,langsamt,0,travel
+493,broms,1,travel
+494,motor,1,travel
+495,kör,0,travel
+496,Kurva,1,travel
+497,korning,1,travel
+498,trafikljus,1,travel
+499,kyrka,1,travel
+500,spegel,1,"at home"
+501,radjur,1,"humans and animals"
+502,fagel,0,"humans and animals"
+503,"sa synd",0,"other adjectives"
+504,försvinna,1,"other verbs"
+505,"jag gillar det",1,emotions
+506,engelsk,0,travel
+507,"att upprepa",1,"other verbs"
+508,tur,0,emotions
+509,helgen,1,time
+510,partner,0,"humans and animals"
+511,bröllop,1,"other Nouns"
+512,gift,0,"other adjectives"
+513,"Hur gammal är du?",1,phrases
+514,företag,1,work
+515,siffra,0,numbers
+516,adress,0,"at home"
+517,hem,0,"at home"
+518,"att dansa",0,"free time"
+519,har,0,"humans and animals"
+520,nöjd,1,emotions
+521,"spelar ingen roll",0,"other adjectives"
+522,Hjälp,0,"other Nouns"
+523,"Inga problem!",1,phrases
+524,jobb,1,"at home"
+525,jobb,0,"at home"
+526,far,0,"humans and animals"
+527,mor,0,"humans and animals"
+528,farmor,1,"humans and animals"
+529,dotter,1,"humans and animals"
+530,son,0,"humans and animals"
+531,Bröder,0,"humans and animals"
+532,syster,0,"humans and animals"
+533,höskolestudent,0,work
+534,Opera,1,travel
+535,universitet,1,work
+536,frukost,0,"eat and drink"
+537,"Har lunch",0,"eat and drink"
+538,middag,0,"eat and drink"
+539,mellanmal,0,"eat and drink"
+540,choklad,0,"eat and drink"
+541,bok,0,"free time"
+542,lada,1,"at home"
+543,nyckel,0,"at home"
+544,planbook,1,"at home"
+545,elektricitet,1,"at home"
+546,säga,0,"other verbs"
+547,skön,0,"other adjectives"
+548,dusch,0,"at home"
+549,kamera,0,"free time"
+550,bild,0,"at home"
+551,Toalett,0,"at home"
+552,nätverk,1,"at home"
+553,lasa,1,"other verbs"
+554,Ingang,0,"at home"
+555,Usgang,0,"at home"
+556,ugn,0,"at home"
+557,kylskap,0,"at home"
+558,bageri,1,"eat and drink"
+559,företag,1,work
+560,Slakteributik,1,"eat and drink"
+561,"Använda sig av",0,"other Nouns"
+562,flaska,0,"eat and drink"
+563,Glas,0,"eat and drink"
+564,Tallrik,0,"eat and drink"
+565,luft,1,weather
+566,gas,0,"other Nouns"
+567,hiss,1,"at home"
+568,golv,1,"at home"
+569,säng,0,"at home"
+570,värmare,1,"at home"
+571,"laga mat",0,"eat and drink"
+572,luftkonditionering,1,"at home"
+573,ljus,0,"at home"
+574,skräp,0,"at home"
+575,sova,0,"other verbs"
+576,telefon,0,"at home"
+577,limpa,0,"eat and drink"
+578,"God aptit!",1,phrases
+579,"Till förman!",0,phrases
+580,inbjudan,1,"free time"
+581,saknas,0,"other verbs"
+582,Soppa,0,"eat and drink"
+583,skinka,0,"eat and drink"
+584,korv,1,"eat and drink"
+585,Pasta,0,"eat and drink"
+586,ris,0,"eat and drink"
+587,kyckling,1,"humans and animals"
+588,ost,0,"eat and drink"
+589,grilla,1,"eat and drink"
+590,citronsaft,0,"eat and drink"
+591,juice,0,"eat and drink"
+592,mjölk,0,"eat and drink"
+593,socker,0,"eat and drink"
+594,salt,0,"eat and drink"
+595,värma,0,weather
+596,frukt,0,"eat and drink"
+597,bit,0,"other Nouns"
+598,NULL,0,general
+599,NULL,0,general
+600,blod,0,"humans and animals"
+601,alkohol,0,"eat and drink"
+602,Rätt!,0,phrases
+603,fett,0,"eat and drink"
+604,tjock,0,"other adjectives"
+605,tunn,0,"other adjectives"
+606,glasögon,0,clothes
+607,meddelande,1,"free time"
+608,dröm,0,"free time"
+609,önskar,0,"free time"
+610,"att tvätta",0,"other verbs"
+611,jordgubbe,0,"eat and drink"
+612,lök,0,"eat and drink"
+613,Ull,1,materials
+614,läder,1,materials
+615,Trä,0,materials
+616,material,1,materials
+617,badbyxor,1,clothes
+618,kostym,1,clothes
+619,Tval,0,materials
+620,Lättare,1,"at home"
+621,"att öppna",0,"other verbs"
+622,"stänga av",0,"other verbs"
+623,ljus,1,"at home"
+624,Brand,0,"other Nouns"
+625,Film,1,"free time"
+626,läsa,0,"other verbs"
+627,"lära sig",0,"other verbs"
+628,rök,0,"other verbs"
+629,ga,0,"other verbs"
+630,Cigarett,0,"free time"
+631,Lim,1,"other Nouns"
+632,sax,0,"other Nouns"
+633,farlig,0,"other adjectives"
+634,markant,0,"other adjectives"
+635,sparad,0,"other adjectives"
+636,hyra,0,"other verbs"
+637,"att köpa",0,"other verbs"
+638,simma,0,"free time"
+639,boll,0,"free time"
+640,ansikte,1,"humans and animals"
+641,väska,1,clothes
+642,individuellt,1,numbers
+643,dubbel,1,numbers
+644,mask,0,clothes
+645,Fotbol,0,"free time"
+646,tennis,0,"free time"
+647,"att förlora",0,"other verbs"
+648,"att fa",0,"other verbs"
+649,vinna,0,"other verbs"
+650,hoppa,0,"other verbs"
+651,byggnad,1,travel
+652,familj,0,"humans and animals"
+653,fält,0,travel
+654,ö,1,travel
+655,tro,1,"other verbs"
+656,Centrum,0,"other Nouns"
+657,linje,0,"other Nouns"
+658,bar,0,travel
+659,Smärta,0,emotions
+660,tand,1,"humans and animals"
+661,hud,0,"humans and animals"
+662,finger,0,"humans and animals"
+663,visa,0,"other Nouns"
+664,demonstrera,0,"other verbs"
+665,sova,0,"other verbs"
+666,besluta,1,"other verbs"
+667,läsplatta,0,"other Nouns"
+668,feber,1,"other Nouns"
+669,,0,"other adjectives"
+670,tidigt,0,time
+671,sent,0,time
+672,NULL,0,general
+673,var,1,time
+674,sommar,1,time
+675,höst,1,time
+676,vinter,1,time
+677,vat,0,weather
+678,Eve,0,time
+679,Middag,0,time
+680,natt,0,time
+681,blixt,1,weather
+682,mane,0,weather
+683,stjärna,0,weather
+684,vind,0,weather
+685,franvaro,0,"other verbs"
+686,annorlunda,0,"other adjectives"
+687,angest,0,emotions
+688,glädje,0,emotions
+689,nervös,0,emotions
+690,trött,0,emotions
+691,fattig,0,"other adjectives"
+692,rik,0,"other adjectives"
+693,"att ta",0,"other verbs"
+694,NULL,0,general
+695,tal,0,"other verbs"
+696,"bryta upp",0,"other verbs"
+697,start,0,"other verbs"
+698,skatter,1,"other verbs"
+699,bekväm,1,emotions
+700,"upptäcka, detektera",1,"other verbs"
+701,"känna till",0,"other verbs"
+702,"lite grann",0,"other adjectives"
+703,bred,0,"other adjectives"
+704,hög,0,"other adjectives"
+705,lang,0,"other adjectives"
+706,tung,0,"other adjectives"
+707,ha,0,"other verbs"
+708,föra,0,"other verbs"
+709,sak,0,"other Nouns"
+710,bradskande,0,"other adjectives"
+711,hörn,0,"other Nouns"
+712,nagra,0,"other adjectives"
+713,"inte korrekt",0,"other adjectives"
+714,korrekt,0,"other adjectives"
+715,fel,0,"other Nouns"
+716,konsekvenser,0,"other verbs"
+717,vänlig,0,emotions
+718,NULL,0,general
+719,lag,1,work
+720,slät,0,"other adjectives"
+721,"att hämta",0,"other verbs"
+722,aning,1,work
+723,inuti,0,"other adjectives"
+724,utanför,0,"other adjectives"
+725,intressant,0,emotions
+726,alla,0,"personal adjectives"
+727,nagon,0,"personal adjectives"
+728,ung,0,"other adjectives"
+729,gammal,0,"other adjectives"
+730,kedja,1,clothes
+731,kulle,1,travel
+732,intelligent,0,emotions
+733,NULL,0,general
+734,tömma,0,"other adjectives"
+735,full,0,"other adjectives"
+736,lat,1,"free time"
+737,lana,1,"other verbs"
+738,avslappnad,0,"other adjectives"
+739,rolig,0,emotions
+740,ta,0,"other verbs"
+741,modig,1,emotions
+742,Efternamn,0,"humans and animals"
+743,Nyheter,0,"at home"
+744,aldrig,0,"other adjectives"
+745,,0,general
+746,ingen,0,"personal adjectives"
+747,NULL,0,general
+748,ofta,0,"other adjectives"
+749,sällsynt,0,"other adjectives"
+750,original,0,"other Nouns"
+751,norr,0,travel
+752,officiellt,0,"other adjectives"
+753,öster,0,travel
+754,kunskap,0,"other verbs"
+755,söder,0,travel
+756,västerut,0,travel
+757,Österrike,1,travel
+758,bo,0,"at home"
+759,pass,0,travel
+760,parkera,0,travel
+761,"ha sönder",0,"free time"
+762,oftur,0,emotions
+763,planen,0,travel
+764,plast,0,materials
+765,pris,0,"other Nouns"
+766,testning,0,"other verbs"
+767,Vuxen,1,"humans and animals"
+768,rädda,1,"other verbs"
+769,lukt,1,"humans and animals"
+770,NULL,0,general
+771,"rind upp",1,"other verbs"
+772,samla,0,"other verbs"
+773,skada,1,"other Nouns"
+774,säsong,1,time
+775,skämt,0,emotions
+776,skicka,0,"other verbs"
+777,sla,0,"other verbs"
+778,fel,1,emotions
+779,uppskatta,1,"other verbs"
+780,slrämma,1,"other verbs"
+781,"att skära",0,"other verbs"
+782,tyst,0,"other adjectives"
+783,enligt,0,"other adjectives"
+784,säkert,0,"other adjectives"
+785,"att sitta",0,"other verbs"
+786,sta,0,"other verbs"
+787,lögn,0,"other verbs"
+788,direkt,0,"other adjectives"
+789,annat,0,"other adjectives"
+790,roligt,0,emotions
+791,Spindel,1,"humans and animals"
+792,topp,0,"other Nouns"
+793,runda,0,"other adjectives"
+794,hard,0,"other adjectives"
+795,mjuk,0,"other adjectives"
+796,stark,0,"other adjectives"
+797,svag,0,"other adjectives"
+798,sten,0,"other Nouns"
+799,"istället för",0,"other adjectives"
+800,röst,1,"humans and animals"
+801,stolt,0,emotions
+802,bestraffning,0,"other Nouns"
+803,"ta del",1,"other verbs"
+804,möte,1,work
+805,djup,0,"other adjectives"
+806,ljud,1,"other Nouns"
+807,"ha pa sig",0,"other verbs"
+808,liv,0,"other verbs"
+809,"att dö",0,"other verbs"
+810,ledsen,0,emotions
+811,trogen,1,emotions
+812,torr,1,weather
+813,separat,0,"other verbs"
+814,ända,0,"other adjectives"
+815,,0,general
+816,under,0,"other adjectives"
+817,möjlig,0,"other adjectives"
+818,Dumheter,1,"other Nouns"
+819,signatur,1,work
+820,titel,0,work
+821,"pa väg",1,travel
+822,avbryta,1,"other verbs"
+823,obegriplig,0,"other adjectives"
+824,Grundorsak,0,"other Nouns"
+825,förbjuden,0,"other verbs"
+826,behöver,0,"other verbs"
+827,ansvarig,1,work
+828,förbättra,0,"other verbs"
+829,"att glömma",0,"other verbs"
+830,trafik,1,travel
+831,förhindra,1,"other verbs"
+832,lämna,0,"other verbs"
+833,annorlunda,0,"other adjectives"
+834,NULL,0,general
+835,löfte,1,"other verbs"
+836,kontrakt,1,work
+837,dölj,0,"other verbs"
+838,"att försöka",0,"other verbs"
+839,förtoende,0,"other verbs"
+840,NULL,0,general
+841,liten,0,"other adjectives"
+842,främre,0,"other adjectives"
+843,tillbaka,0,"other adjectives"
+844,"Nu kör vi!",1,phrases
+845,sanning,0,"other Nouns"
+846,liggande,0,"other verbs"
+847,"att växa",0,"other verbs"
+848,växla,0,"other verbs"
+849,"sätta pa",0,"other verbs"
+850,"stäng pa",0,"other verbs"
+851,"därför att",0,"other adjectives"
+852,välja,0,"other verbs"
+853,grata,0,emotions
+854,kort,0,"other adjectives"
+855,NULL,0,general
+856,"kasta iväg",1,"other verbs"
+857,minst,0,"other adjectives"
+858,"som mest",0,"other adjectives"
+859,reklam,1,"other Nouns"
+860,rekommendera,0,"other verbs"
+861,dyrbar,0,"other adjectives"
+862,NULL,0,general
+863,undra,0,"other Nouns"
+864,soffa,0,"at home"
+865,syfte,0,"other Nouns"
+866,Börja,0,"other Nouns"
+867,Punkt,0,"other Nouns"
+868,linje,0,"other Nouns"
+869,cirkel,0,"other Nouns"
+870,rektangel,1,"other Nouns"
+871,triangel,1,"other Nouns"
+872,Centrum,0,travel
+873,ganska,0,"other adjectives"
+874,"att förstöra",0,"other verbs"
+875,NULL,0,general
+876,tillfälligt,0,"other adjectives"
+877,framtida,1,time
+878,historia,1,time
+879,beräkna,1,numbers
+880,"till exempel",1,phrases
+881,sista,0,"other adjectives"
+882,status,1,"other Nouns"
+883,cylinder,0,"other Nouns"
+884,tillsammans,0,"other adjectives"
+885,kon,1,"other Nouns"
+886,laddare,0,"other Nouns"
+887,procent,0,numbers
+888,lista,0,"other Nouns"
+889,Video,0,"free time"
+890,"att trycka",0,"other verbs"
+891,dra,0,"other verbs"
+892,elefant,0,"humans and animals"
+893,pingvin,0,"humans and animals"
+894,lejon,1,"humans and animals"
+895,Disko,0,travel
+896,privat,0,"other adjectives"
+897,keps,1,clothes
+898,högtalare,0,"other Nouns"
+899,Lärare,1,work
+900,kjol,1,clothes
+901,födelsedag,0,"free time"
+902,fritid,0,travel
+903,semester,0,travel
+904,hjul,0,travel
+905,okänd,0,"other adjectives"
+906,Väckarklocka,1,"at home"
+907,garderob,1,"at home"
+908,kök,0,"at home"
+909,badkar,1,"at home"
+910,tandborste,1,"at home"
+911,radio,0,travel
+912,brev,0,travel
+913,peppar,0,"eat and drink"
+914,Orm,1,"humans and animals"
+915,balkong,0,"at home"
+916,riktning,1,travel
+917,ryggsäck,0,travel
+918,bro,1,travel
+919,tunnel,1,travel
+920,skägg,1,"humans and animals"
+921,Kopp,1,"free time"
+922,matta,1,"at home"
+923,lada,1,"at home"
+924,filt,1,"at home"
+925,källare,0,"at home"
+926,garage,0,"at home"
+927,hylla,1,"at home"
+928,jord,0,"at home"
+929,flytta,0,"other verbs"
+930,Rör,0,"other verbs"
+931,tidning,1,"at home"
+932,dimma,1,weather
+933,snö,0,weather
+934,skjorta,1,clothes
+935,"att flyga",0,travel
+936,falla,0,"other verbs"
+937,hjälm,1,clothes
+938,sprak,1,travel
+939,"ha sönder",0,"other verbs"
+940,se,1,travel
+941,"att rita",0,"free time"
+942,allmänt,0,"other adjectives"
+943,ladda,0,"other verbs"
+944,accelerera,0,"other verbs"
+945,"verkar vara",0,"other verbs"
+946,"koppla av",0,"free time"
+947,hagel,1,weather
+948,lat,0,emotions
+949,ambitiös,0,emotions
+950,ge,0,"other verbs"
+951,handfat,1,"at home"
+952,ge,0,"other verbs"
+953,sötnös,1,"other Nouns"
+954,ljuv,0,"eat and drink"
+955,skarp,0,"eat and drink"
+956,arg,0,"eat and drink"
+957,äcklig,0,"other adjectives"
+958,bitter,0,"eat and drink"
+959,död,0,"other adjectives"
+960,spela,0,"free time"
+961,dekoration,0,"at home"
+962,fjärrkontroll,1,"at home"
+963,lastbil,0,travel
+964,trasa,1,"at home"
+965,vaddera,1,"at home"
+966,Burk,0,"eat and drink"
+967,paket,0,"other Nouns"
+968,förbindelse,1,"other Nouns"
+969,"topp, tak",0,"at home"
+970,rida,1,"at home"
+971,Vagen,1,"other Nouns"
+972,datum,0,time
+973,baner,0,"other Nouns"
+974,genomsnitt,1,numbers
+975,fall,0,"other Nouns"
+976,grupp,0,travel
+977,total,0,numbers
+978,rang,0,numbers
+979,NULL,0,general
+980,"att leda",1,"other verbs"
+981,yta,1,numbers
+982,askväder,1,weather
+983,"kolla upp",1,"other verbs"
+984,springa,0,"free time"
+985,groda,1,"humans and animals"
+986,krokodil,0,"humans and animals"
+987,Flyga,1,"humans and animals"
+988,mygga,1,"humans and animals"
+989,gris,1,"humans and animals"
+990,far,1,"humans and animals"
+991,NULL,0,general
+992,NULL,0,general
+993,NULL,0,general
+994,NULL,0,general
+995,NULL,0,general
+996,NULL,0,general
+997,NULL,0,general
+998,NULL,0,general
+999,NULL,0,general
+1000,NULL,0,general
